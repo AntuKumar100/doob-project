@@ -1,0 +1,321 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    /* Header start */
+    .menu{
+        padding-top: 5px;
+    }
+    .menu ul li a{
+        padding: 1px 10px !important;
+        float: right;
+    }
+    .btn_d{
+        float: right;
+        padding-right: 0px !important;
+    }
+    ul.dropdown-menu.d_m.show {
+        float: right;
+        position: relative;
+        top: 2px;
+        left: -2px;
+    }
+    .lapm-11 {
+        margin-top: 0px;
+    }
+    /* header end */
+    /* slide start */
+    .md-img {
+        margin-top: 25px;
+        align-items: center;
+    }
+    .content h1 {
+        padding-top: 40px;
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .content p{
+        margin: 25px 0;
+    }
+    .content span a {
+        font-size: 16px;
+        margin: 0 15px;
+    }
+    .s_btn {
+        padding: 3px 12px !important;
+        font-size: 16px;
+    }
+    .content {
+        margin: 20px 0 15px 0;
+    }
+    .s_s{
+        margin-bottom: 45px !important;
+    }
+    /* slide end */
+    
+
+    /* new_1 */
+
+
+    .col-lg-5.col-md-12.s_s {
+        margin: 30px 0 !important;
+    }
+    .con_1 h1 {
+        font-size: 25px;
+        line-height: 35px;
+        padding-bottom: 25px;
+    }
+    .x_btn {
+        margin: 5px 0 50px 0;
+    }
+    .box-xx {
+        padding: 20px 0;
+    }
+    /* new 2 */
+    .content_2 h2 {
+        font-size: 30px;
+        line-height: 40px;
+        padding: 20px 0 15px 0;
+    }
+.content_2 p {
+    padding-bottom: 10px;
+}
+.content_2 h1 {
+    font-size: 25px;
+    padding: 35px 0 30px 0;
+
+}
+    /* new 2 */
+    .pics_c {
+        padding: 25px 0;
+    }
+    .u_h1 h2 {
+        font-size: 30px;
+        line-height: 27px;
+        padding: 15px 0 15px 0;
+    }
+    .images img {
+        border-radius: 10px;
+        margin-bottom: 40px;
+    }
+    .icon_0 {
+        font-size: 25px;
+    }
+    /* question */
+    .question {
+        padding-bottom: 80px;
+    }
+    .form_input {
+        height: 40px;
+    }
+    .f_t_r h2 {
+        font-size: 26px;
+    }
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* Header start */
+    .menu{
+        padding-top: 5px;
+    }
+    .menu ul li a{
+        padding: 1px 10px !important;
+        float: right;
+    }
+    .btn_d{float: right;
+        padding-right: 0px !important;
+    }
+    ul.dropdown-menu.d_m.show {
+        float: right;
+        position: relative;
+        top: 30px;
+        left: 64px;
+    }
+    
+    /* header end */
+    /* slide start */
+    .md-img {
+        margin-top: 30px;
+    }
+    .content h1 {
+        padding-top: 50px;
+        font-size: 40px;
+        line-height: 55px;
+    }
+    .content p{
+        margin: 30px 0;
+    }
+    .s_btn {
+        padding: 3px 12px !important;
+    }
+    .content {
+        margin: 30px 0 25px 0;
+    }
+    .s_s{
+        margin-bottom: 55px !important;
+    }
+    /* slide end */
+    /* new_1 */
+
+    .col-lg-5.col-md-12.s_s {
+        margin: 40px 0 !important;
+    }
+    .con_1 h1 {
+        font-size: 30px;
+        line-height: 40px;
+        padding-bottom: 30px;
+    }
+    .x_btn {
+        margin-bottom: 60px;
+    }
+    .box-xx {
+        padding-bottom: 25px;
+    }
+    /* new 2 */
+.content_2 h2 {
+    font-size: 35px;
+    line-height: 40px;
+    padding: 20px 0 20px 0;
+}
+    .content_2 p {
+        padding-bottom: 15px;
+    }
+    /* new 2 */
+    .pics_c {
+        padding: 30px 0;
+    }
+    .u_h1 h2 {
+        font-size: 30px;
+        line-height: 30px;
+        padding: 25px 0 25px 0;
+    }
+    .pad_botttom {
+        padding-bottom: 30px !important;
+    }
+}
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* Header start */
+    .menu{
+        padding-top: 5px;
+    }
+    .menu ul li a{
+        padding: 1px 10px !important;
+        float: right;
+    }
+    .btn_d{float: right;
+        padding-right: 0px !important;
+    }
+    ul.dropdown-menu.d_m.show {
+        float: right;
+        position: relative;
+        top: 30px;
+        left: 64px;
+    }
+    
+    /* header end */
+    /* slide start */
+    .md-img {
+        margin-top: 35px;
+    }
+    .content h1 {
+        font-size: 50px;
+        font-weight: 700;
+        color: #464e90 !important;
+        line-height: 70px;
+    }
+    .content p{
+        margin: 35px 0;
+    }
+    .s_btn {
+        padding: 4px 15px !important;
+    }
+    .content {
+        margin: 100px 0;
+    }
+    .s_s{
+        margin-bottom: 65px !important;
+    }
+    .content {
+        margin: 115px 0;
+    }
+    .slider_padding {
+        padding: 0px 0;
+    }
+    /* slide end */
+
+    /* new_1 */
+
+
+    .col-lg-5.col-md-12.s_s {
+        margin: 50px 0 !important;
+    }
+    .con_1 h1 {
+        font-size: 35px;
+        line-height: 50px;
+        padding-bottom: 30px;
+    }
+    .x_btn {
+        margin-bottom: 80px;
+    }
+    .box-xx {
+        padding-bottom: 30px;
+    }
+    /* new 2 */
+    .content_2 h2 {
+        font-size: 40px;
+        padding: 25px 0 25px 0;
+    }
+    .content_2 p {
+        padding-bottom: 20px;
+    }
+    /* new 2 */
+    .pics_c {
+        padding: 40px 0;
+    }
+    .u_h1 h2 {
+        font-size: 35px;
+        line-height: 40px;
+        padding: 30px 0 50px 0;
+    }
+    .pad_botttom {
+        padding-bottom: 50px !important;
+    }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .d_ddown{
+        margin-left: 70px;
+    }
+    /* slide start */
+    .content {
+        margin: 60px 0 80px 0;
+    }
+    .content h1 {
+        font-size: 50px;
+        line-height: 75px;
+    }
+    /* slide end */
+    .pad_botttom {
+        padding-bottom: 110px !important;
+    }
+}
+
+/* Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    .pad_botttom {
+        padding-bottom: 110px !important;
+    }
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+/*  */
+@media (min-width: 1400px) { 
+    .pad_botttom {
+        padding-bottom: 110px !important;
+    }
+    
+}
